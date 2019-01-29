@@ -1,0 +1,38 @@
+body {
+    background-color: #960200;
+}
+
+h1 {
+    color: #960200;
+    text-transform: uppercase;
+}
+
+
+.container {
+    background-color: #F3DFC1;
+}
+/* Left Column */
+
+.profile-pic {
+    border-radius: 50%;
+    margin-top: 5em;
+}
+h2 { 
+    font-size: em;
+    color: #960200;
+}
+h5 { 
+    font-size: 2em;
+    color: #960200;
+}
+
+
+/*Right Column*/
+#work {
+    margin-top: 10px
+}
+
+ul{
+    list-style: none;
+}
+
